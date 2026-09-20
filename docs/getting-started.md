@@ -3,12 +3,14 @@ title: Getting started with AI Jury
 description: How to set up your first judging project in AI Jury — create a project, add participants and pitch decks, start judging, and read the leaderboard and per-judge reports.
 updated: "2026-09-20"
 status: generated
-version: "0.1"
+version: "0.2"
 ---
 
 # Getting started with AI Jury
 
 AI Jury judges a batch of pitch decks with an AI panel that simulates 11 named judge roles, then returns a leaderboard and a per-judge report for every participant. Here is the whole flow, start to finish.
+
+<!-- widget:stepper -->
 
 ## 1. Create a project
 
@@ -27,6 +29,8 @@ If you want to see the product work before spending on a full AI evaluation, a m
 ## 4. Read the leaderboard and the per-judge reports
 
 Once judging finishes, participants are ranked on a leaderboard with an overall score. Open any participant to see the per-judge breakdown: each of the 11 judges contributes its own scored report in an expandable card, from its own lens — for example the CFO role checks whether the numbers in the deck are internally consistent, and the CSO role adds recommendations.
+
+<!-- /widget -->
 
 ## What you get that a manual panel or a single AI score does not
 
